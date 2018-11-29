@@ -850,6 +850,21 @@
     ]
   },
   {
+    "name": "Custom Values",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Values"
+      },
+      {
+        "type": "text",
+        "id": "country_name",
+        "label": "country_name",
+        "info": "Country site is based in"
+      }
+    ]
+  },
+  {
     "name": "Price Format",
     "settings": [
       {
